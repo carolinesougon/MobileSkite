@@ -1,0 +1,12 @@
+@charset "HTF-8";
+
+body{
+    background-color: #1D232A;
+    font-family: 'Open Sans',Arial, Helvetica, sans-serif;
+    color:white
+}
+
+.cabecalho{
+    display:flex;
+}
+
