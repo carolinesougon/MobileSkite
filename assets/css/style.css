@@ -1,5 +1,11 @@
 @charset "HTF-8";
 
+
+@font-face {
+    font-family: 'icones';
+    src: url(../font/icones.ttf);
+}
+
 body{
     background-color: #1D232A;
     font-family: 'Open Sans',Arial, Helvetica, sans-serif;
@@ -9,4 +15,6 @@ body{
 .cabecalho{
     display:flex;
 }
+
+
 
